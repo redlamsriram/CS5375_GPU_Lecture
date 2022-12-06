@@ -107,7 +107,7 @@ int main(void)
   if (check(N, ans))
     std::cout << "RUN OK." << std::endl;
   else
-    std::cout << "RUN OK." << std::endl;
+    std::cout << "RUN NOT OK." << std::endl;
 
   // ..........................................................................
 
